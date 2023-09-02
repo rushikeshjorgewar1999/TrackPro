@@ -1,17 +1,15 @@
-# Thresh - Project Management Tool
+TrackPro - Project Management and Issue Tracking Tool
 
-## Thresh is a project management tool used to track team progress and collaborate with members anywhere.
-### Made with React.js, SQL, Express.js, Tailwind and Webpack.
+TrackPro is a versatile project management and issue tracking tool designed to streamline your development workflow. It provides a platform for teams to manage projects, track tasks, and resolve issues efficiently.
+Features
 
-#### Stretch Features:
-#### Implement authorization with JWT
-#### Update task cards with owner and date created information
-#### Implement commenting feature into task cards
-#### Create organizations in to group users 
-#### Allow OAuth with github users
+    Tech Stack Used - React.js, SQL, Node.js, Express.js etc
 
-###### Co-authored-by: dogenoh dogenoh@users.noreply.github.com
-###### Co-authored-by: Roberto Meloni RobertoRueMeloni@users.noreply.github.com
-###### Co-authored-by: Jack Sonoda jackksono@users.noreply.github.com
-###### Co-authored-by: K8Liu K8Liu@users.noreply.github.com
-###### Co-authored-by: XpIose XpIose@users.noreply.github.com
+
+    Project Management: Create and manage projects to keep your team organized.
+    Task Tracking: Assign and monitor tasks to team members for better project visibility.
+    Issue Tracking: Identify, report, and resolve issues to ensure smooth project progression.
+    User-Friendly Interface: Intuitive and easy-to-navigate UI for quick adoption.
+    Access Control: Set permissions and roles to control who can access and modify project data.
+    Notifications: Receive real-time notifications about project updates and task assignments.
+    Customization: Tailor the tool to your workflow with customizable labels, tags, and fields.
